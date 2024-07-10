@@ -7,6 +7,9 @@ Link: [Google][googlelink]
 
 [googlelink]: https://google.com "Go google"
 
+Link: [naver][naverlink]
+[naverlink]:http://www.naver.com"go naver"
+
 * * *
 
 ***
